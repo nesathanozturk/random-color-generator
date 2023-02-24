@@ -1,5 +1,4 @@
 const bodyColor = document.getElementById("color");
-const btn = document.querySelectorById("btn");
 
 function getRandomColor() {
   let characters = "0123456789ABCDEF";
